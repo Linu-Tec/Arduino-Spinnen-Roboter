@@ -33,3 +33,22 @@ Aus der [Anleitung](https://www.instructables.com/DIY-Spider-RobotQuad-robot-Qua
 ![image](https://github.com/user-attachments/assets/0bb091c5-55e0-48a1-96be-d137af29d8eb)
 
 ![image](https://github.com/user-attachments/assets/d8bd37f0-bc56-43b8-93a9-f525ff2ec553)
+
+Programm Ablauf:
+[Vor-und-zurueck-laufen-v1.ino](https://github.com/Linu-Tec/Arduino-Spinnen-Roboter/blob/main/Vor-und-zurueck-laufen-v1.ino)
+
+1. Aufstehen, 2 Sekunden warten
+2. 5 Schritte vorwärts gehen, 2 Sekunden warten
+3. 5 Schritte rückwärts gehen, 2 Sekunden warten
+4. Nach rechts drehen, 2 Sekunden warten
+5. Nach links drehen, 2 Sekunden warten
+6. Mit der Hand winken, 2 Sekunden warten
+7. Die Hand schütteln, 2 Sekunden warten
+8. Hinsetzen, 2 Sekunden warten
+9. Zurück zu 1.
+
+
+[Vor-und-zurueck-laufen-v2.ino](https://github.com/Linu-Tec/Arduino-Spinnen-Roboter/blob/main/Vor-und-zurueck-laufen-v2.ino)
+
+
+[Vor-und-zurueck-laufen-v3.ino](https://github.com/Linu-Tec/Arduino-Spinnen-Roboter/blob/main/Vor-und-zurueck-laufen-v3.ino)
