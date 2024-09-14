@@ -5,7 +5,7 @@ Hier ist der Link zu den Platinen:
 - [Arduino-Spinnen-Roboter Pro Mini](https://www.pcbway.com/project/shareproject/Arduino_Spinnen_Roboter_5e67cf5d.html)
 - [Arduino-Spinnen-Roboter Nano](https://www.pcbway.com/project/shareproject/Arduino_Spinnen_Roboter_Nano_7bf1c600.html)
 
-Und hier könnt ihr selber Platinen bestellen: [PCBWay](https://www.pcbway.com/)
+Und hier könnt ihr selber Platinen bestellen: [PCBWay](https://pcbway.com/g/Bm3OZF)
 
 ![PCBWay-logo](https://github.com/user-attachments/assets/f7c905fa-edf6-4745-9900-ceeaef771a5f)
 
