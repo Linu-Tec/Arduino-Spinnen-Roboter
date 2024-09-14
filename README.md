@@ -51,8 +51,30 @@ Programm Ablauf:
 
 [Vor-und-zurueck-laufen-v2.ino](https://github.com/Linu-Tec/Arduino-Spinnen-Roboter/blob/main/Vor-und-zurueck-laufen-v2.ino)
 
+1. Aufstehen, 2 Sekunden warten
+2. 5 Schritte vorwärts gehen, 2 Sekunden warten
+3. 5 Schritte rückwärts gehen, 2 Sekunden warten
+4. Nach rechts drehen, 2 Sekunden warten
+5. Nach links drehen, 2 Sekunden warten
+6. , 2 Sekunden warten
+7. , 2 Sekunden warten
+8. , 2 Sekunden warten
+9. Zurück zu 1.
+
 
 [Vor-und-zurueck-laufen-v3.ino](https://github.com/Linu-Tec/Arduino-Spinnen-Roboter/blob/main/Vor-und-zurueck-laufen-v3.ino)
+
+1. Aufstehen, 2 Sekunden warten
+2. 5 Schritte vorwärts gehen, 2 Sekunden warten
+3. 5 Schritte rückwärts gehen, 2 Sekunden warten
+4. Nach rechts drehen, 2 Sekunden warten
+5. Nach links drehen, 2 Sekunden warten
+6. , 2 Sekunden warten
+7. , 2 Sekunden warten
+8. , 2 Sekunden warten
+9. Zurück zu 1.
+
+
 
 
 Aus der [Anleitung Bluetooth Control](https://www.instructables.com/DIY-Spider-Robot-PART-II-Remote-control/)
