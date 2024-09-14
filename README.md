@@ -26,8 +26,8 @@ Benötigte Library:
 
 Benötigte Bauteile:
 - 1x [Arduino Nano](https://funduinoshop.com/elektronische-module/sonstige/mikrocontroller/funduino-nano-r3-ch340-chip-ungeloetet)
-- 1x LED 5mm
-- 1x 270 Ohm Widerstand
+- 1x [LED 5mm](https://www.reichelt.de/led-5mm-bedrahtet-rot-3000-mcd-60--5034r1d-esb-e-p361632.html)
+- 1x [270 Ohm Widerstand](https://www.reichelt.de/widerstand-kohleschicht-270-ohm-0207-250-mw-5--1-4w-270-p1390.html?&trstct=pos_1&nbc=1)
 - 1x HC-05 / HC-06
 - 1x [Mini Taster Drucktaster Mikroschalter Rastend Push Button 3,6Pin](https://www.ebay.de/itm/374548828237?var=643525456852)
 - 1x [Mini Step Down Spannungsregler Modul 3A 1,8/2,5/3,3/5/9/12V Power DC-DC Wandler](https://www.ebay.de/itm/375611362378)
