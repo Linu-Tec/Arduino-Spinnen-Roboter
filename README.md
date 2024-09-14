@@ -10,6 +10,7 @@ Und hier könnt ihr selber Platinen bestellen: [PCBWay](https://www.pcbway.com/)
 ![PCBWay-logo](https://github.com/user-attachments/assets/f7c905fa-edf6-4745-9900-ceeaef771a5f)
 
 [Anleitung auf Bau Programmierung](https://www.instructables.com/DIY-Spider-RobotQuad-robot-Quadruped/)
+
 [Anleitung Bluetooth Control](https://www.instructables.com/DIY-Spider-Robot-PART-II-Remote-control/)
 
 
