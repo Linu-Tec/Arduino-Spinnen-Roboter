@@ -7,7 +7,8 @@ Und hier könnt ihr selber Platinen bestellen: [PCBWay](https://www.pcbway.com/)
 
 ![PCBWay-logo](https://github.com/user-attachments/assets/f7c905fa-edf6-4745-9900-ceeaef771a5f)
 
-[Anleitung](https://www.instructables.com/DIY-Spider-RobotQuad-robot-Quadruped/)
+[Anleitung auf Bau Programmierung](https://www.instructables.com/DIY-Spider-RobotQuad-robot-Quadruped/)
+[Anleitung Bluetooth Control](https://www.instructables.com/DIY-Spider-Robot-PART-II-Remote-control/)
 
 
 
@@ -52,3 +53,17 @@ Programm Ablauf:
 
 
 [Vor-und-zurueck-laufen-v3.ino](https://github.com/Linu-Tec/Arduino-Spinnen-Roboter/blob/main/Vor-und-zurueck-laufen-v3.ino)
+
+
+Aus der [Anleitung Bluetooth Control](https://www.instructables.com/DIY-Spider-Robot-PART-II-Remote-control/)
+
+
+Aktionsbefehl 0-6
+- w 0 1: stehen
+- w 0 0: sitzen
+- w 1 x: vorwärts x Schritt
+- w 2 x: zurück x Schritt
+- w 3 x: rechts abbiegen x Schritt
+- w 4 x: links abbiegen x Schritt
+- w 5 x: x-mal die Hand schütteln
+- w 6 x: x-mal mit der Hand winken
