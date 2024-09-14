@@ -27,7 +27,7 @@ Benötigte Bauteile:
 
 
 
-Aus der [Anleitung](https://www.instructables.com/DIY-Spider-RobotQuad-robot-Quadruped/)
+## Aus der [Anleitung](https://www.instructables.com/DIY-Spider-RobotQuad-robot-Quadruped/)
 
 ![image](https://github.com/user-attachments/assets/7fb1b636-9eaa-4e1b-ac8c-60895d216240)
 
@@ -35,7 +35,8 @@ Aus der [Anleitung](https://www.instructables.com/DIY-Spider-RobotQuad-robot-Qua
 
 ![image](https://github.com/user-attachments/assets/d8bd37f0-bc56-43b8-93a9-f525ff2ec553)
 
-Programm Ablauf:
+## Programm Ablauf:
+### V1
 [Vor-und-zurueck-laufen-v1.ino](https://github.com/Linu-Tec/Arduino-Spinnen-Roboter/blob/main/Vor-und-zurueck-laufen-v1.ino)
 
 1. Aufstehen, 2 Sekunden warten
@@ -48,7 +49,7 @@ Programm Ablauf:
 8. Hinsetzen, 2 Sekunden warten
 9. Zurück zu 1.
 
-
+### V2
 [Vor-und-zurueck-laufen-v2.ino](https://github.com/Linu-Tec/Arduino-Spinnen-Roboter/blob/main/Vor-und-zurueck-laufen-v2.ino)
 
 1. Aufstehen, 2 Sekunden warten
@@ -61,7 +62,7 @@ Programm Ablauf:
 8. , 2 Sekunden warten
 9. Zurück zu 1.
 
-
+### V3
 [Vor-und-zurueck-laufen-v3.ino](https://github.com/Linu-Tec/Arduino-Spinnen-Roboter/blob/main/Vor-und-zurueck-laufen-v3.ino)
 
 1. Aufstehen, 2 Sekunden warten
@@ -77,7 +78,7 @@ Programm Ablauf:
 
 
 
-Aus der [Anleitung Bluetooth Control](https://www.instructables.com/DIY-Spider-Robot-PART-II-Remote-control/)
+## Aus der [Anleitung Bluetooth Control](https://www.instructables.com/DIY-Spider-Robot-PART-II-Remote-control/)
 
 
 Aktionsbefehl 0-6
