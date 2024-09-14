@@ -13,9 +13,10 @@ Und hier könnt ihr selber Platinen bestellen: [PCBWay](https://www.pcbway.com/)
 
 Link zum Video: 
 
-Benötigte Library:
 
-[FlexiTimer2](https://playground.arduino.cc/Main/FlexiTimer2/)
+Benötigte Library:
+- [FlexiTimer2](https://playground.arduino.cc/Main/FlexiTimer2/)
+- 
 
 
 Benötigte Bauteile:
