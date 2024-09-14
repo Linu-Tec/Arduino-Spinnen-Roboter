@@ -19,8 +19,9 @@ Link zum Video:
 
 
 Benötigte Library:
-- [FlexiTimer2](https://playground.arduino.cc/Main/FlexiTimer2/)
-- 
+- [wimleers-flexitimer2-v1.1](https://github.com/Linu-Tec/Arduino-Spinnen-Roboter/blob/main/wimleers-flexitimer2-v1.1.zip)
+- [Arduino-SerialCommand-master](https://github.com/Linu-Tec/Arduino-Spinnen-Roboter/blob/main/Arduino-SerialCommand-master.zip)
+
 
 
 Benötigte Bauteile:
