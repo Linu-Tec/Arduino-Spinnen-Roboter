@@ -13,7 +13,7 @@ Und hier könnt ihr selber Platinen bestellen: [PCBWay](https://pcbway.com/g/Bm3
 
 [Anleitung Bluetooth Control](https://www.instructables.com/DIY-Spider-Robot-PART-II-Remote-control/)
 
-
+[Download der 3D Teile für den Roboter](https://www.thingiverse.com/thing:1009659)
 
 Link zum Video: 
 
