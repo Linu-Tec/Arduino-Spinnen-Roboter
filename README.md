@@ -15,7 +15,8 @@ Und hier könnt ihr selber Platinen bestellen: [PCBWay](https://pcbway.com/g/Bm3
 
 [Download der 3D Teile für den Roboter](https://www.thingiverse.com/thing:1009659)
 
-Link zum Video: 
+[Link zum Video Arduino Nano](https://youtu.be/pOoD12ls4Ig)
+[Link zum Video Arduino Pro Mini](https://youtu.be/pOoD12ls4Ig)
 
 
 Benötigte Library:
