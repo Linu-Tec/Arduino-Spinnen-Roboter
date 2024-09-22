@@ -9,6 +9,7 @@ Und hier könnt ihr selber Platinen bestellen: [PCBWay](https://pcbway.com/g/Bm3
 
 ![PCBWay-logo](https://github.com/user-attachments/assets/f7c905fa-edf6-4745-9900-ceeaef771a5f)
 
+## Anleitung
 [Anleitung auf Bau Programmierung](https://www.instructables.com/DIY-Spider-RobotQuad-robot-Quadruped/)
 
 [Anleitung Bluetooth Control](https://www.instructables.com/DIY-Spider-Robot-PART-II-Remote-control/)
@@ -20,12 +21,13 @@ Und hier könnt ihr selber Platinen bestellen: [PCBWay](https://pcbway.com/g/Bm3
 - [Link zum Video Arduino Pro Mini](https://youtu.be/pOoD12ls4Ig)
 
 
+## Arduino IDE Library
 Benötigte Library:
 - [wimleers-flexitimer2-v1.1](https://github.com/Linu-Tec/Arduino-Spinnen-Roboter/blob/main/wimleers-flexitimer2-v1.1.zip)
 - [Arduino-SerialCommand-master](https://github.com/Linu-Tec/Arduino-Spinnen-Roboter/blob/main/Arduino-SerialCommand-master.zip)
 
 
-
+## Bauteile
 Benötigte Bauteile:
 - 1x [Arduino Nano](https://funduinoshop.com/elektronische-module/sonstige/mikrocontroller/funduino-nano-r3-ch340-chip-ungeloetet)
 - 1x [LED 5mm](https://www.reichelt.de/led-5mm-bedrahtet-rot-3000-mcd-60--5034r1d-esb-e-p361632.html)
@@ -40,8 +42,13 @@ Benötigte Bauteile:
 ## Arduino Pro Mini programmieren
 - [Arduino Pro Mini programmieren](https://wolles-elektronikkiste.de/arduino-pro-mini-programmieren)
 - [FTD232 – Wie programmiere ich einen Arduino Pro Mini?](https://lookslikematrix.de/microcontroller/2021/01/07/ftd232.html)
+- 
 - [Arduino PRO Mini mit dem FTD232 verbinden V1](https://lookslikematrix.de/assets/ftd232_arduino_pro_mini.png)
+- ![image](https://github.com/user-attachments/assets/a45643e2-03a4-457e-8a33-17a4b7105790)
+- 
 - [Arduino PRO Mini mit dem FTD232 verbinden V2](https://wolles-elektronikkiste.de/wp-content/uploads/2019/03/ProMini-FTDIProgrammer-1024x313.png)
+- ![image](https://github.com/user-attachments/assets/a4699e05-b4e7-4b87-9b74-458d3f8b27ad)
+
 
 
 ## Aus der [Anleitung](https://www.instructables.com/DIY-Spider-RobotQuad-robot-Quadruped/)
