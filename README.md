@@ -2,8 +2,8 @@
 Arduino Spinnen Roboter
 
 Hier ist der Link zu den Platinen:
-- [Arduino-Spinnen-Roboter Pro Mini](https://www.pcbway.com/project/shareproject/Arduino_Spinnen_Roboter_5e67cf5d.html)
 - [Arduino-Spinnen-Roboter Nano](https://www.pcbway.com/project/shareproject/Arduino_Spinnen_Roboter_Nano_7bf1c600.html)
+- [Arduino-Spinnen-Roboter Pro Mini](https://www.pcbway.com/project/shareproject/Arduino_Spinnen_Roboter_5e67cf5d.html)
 
 Und hier könnt ihr selber Platinen bestellen: [PCBWay](https://pcbway.com/g/Bm3OZF)
 
@@ -35,7 +35,11 @@ Benötigte Bauteile:
 - 2x [Buchsenleiste, gerade, 15pol, 2,54mm](https://funduinoshop.com/bauelemente/steckverbinder/stift-und-buchsenleisten/buchsenleiste-1-x-15p-2.54mm-rastermass-11mm-pinlaenge)
 - 4x [Buchsenleiste, gerade, 8pol, 2,54mm](https://funduinoshop.com/bauelemente/steckverbinder/stift-und-buchsenleisten/buchsenleiste/header-pin-female-1-x-8p-2.54mm-1cm-pinlaenge)
 
-
+## Arduino Pro Mini programmieren
+[Arduino Pro Mini programmieren](https://wolles-elektronikkiste.de/arduino-pro-mini-programmieren)
+[FTD232 – Wie programmiere ich einen Arduino Pro Mini?](https://lookslikematrix.de/microcontroller/2021/01/07/ftd232.html)
+[Arduino PRO Mini mit dem FTD232 verbinden V1](https://lookslikematrix.de/assets/ftd232_arduino_pro_mini.png)
+[Arduino PRO Mini mit dem FTD232 verbinden V2](https://wolles-elektronikkiste.de/wp-content/uploads/2019/03/ProMini-FTDIProgrammer-1024x313.png)
 
 
 ## Aus der [Anleitung](https://www.instructables.com/DIY-Spider-RobotQuad-robot-Quadruped/)
