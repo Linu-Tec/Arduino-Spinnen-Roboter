@@ -3,7 +3,7 @@ Arduino Spinnen Roboter
 
 Hier ist der Link zu den Platinen:
 - [Arduino-Spinnen-Roboter Nano](https://www.pcbway.com/project/shareproject/Arduino_Spinnen_Roboter_Nano_7bf1c600.html)
-- [Arduino-Spinnen-Roboter Pro Mini](https://www.pcbway.com/project/shareproject/Arduino_Spinnen_Roboter_5e67cf5d.html)
+- [Arduino-Spinnen-Roboter Pro Mini](https://www.pcbway.com/project/shareproject/Arduino_Spinnen_Roboter_Pro_Mini_63a310d9.html)
 
 Und hier könnt ihr selber Platinen bestellen: [PCBWay](https://pcbway.com/g/Bm3OZF)
 
